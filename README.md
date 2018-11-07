@@ -26,4 +26,4 @@ Otomatik C# dili için method oluşturma(Tablonuzda ki kolonların veri tipine g
 Auto Backup (Otomatik Yedekleme Sistemi);
 Ayarladığınız dakika,saat,gün,ay,yıl için seçilen veritabanlarını zamanı geldiğinde yedekler.
 
-Tam source indirmek için : https://goo.gl/HRLUZx
+Tam source indirmek için : https://goo.gl/FrHqE5
